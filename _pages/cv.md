@@ -11,27 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Neuroscience, University of Tübingen,2021.
+  * Dissertation: Development of a New Stimulation Strategy for Retinal Implants.
+
+* M.S. in Biomedical Engineering, Shahed University, Tehran,2016.
+  * Dissertation: Development of a Drowsiness Detection System Using EEG Signals.
+
+* B.S. in Electrical Engineering, Bahonar Technical College of Shiraz, 2011.
+  * Project: Development of a MATLAB-Compatible Electrocardiogram (ECG) System.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since Jan 2022: Postdoctoral Researcher, Bernstein Center , University of Freiburg .
+  * Research in the field of Computational Neuroscience
+  * Project: Developed an automated system for detecting burst sequences in mouse prefrontal cortex
+using calcium imaging data.
   
+
+* Fall 2019: Visiting Scientist, University of New South Wales, Sydney.
+
+  * Compared patch-clamp data with extracellular responses of retina ganglion cells to electrical
+stimulation.
+
+
+* 2015–2017: Research Assistant, Brain Engineering Center (IPM), Tehran
+  * Analyzed human EEG and e-phys data recorded from non-human primates
+
+<!--   
 Skills
 ======
 * Skill 1
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
