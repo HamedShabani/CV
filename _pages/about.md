@@ -14,4 +14,4 @@ In my spare time, I enjoy cycling, swimming, and exploring nature through hiking
 
 For more info
 ------
-More info about my recent projects can be found [here](https://hamedshabani.github.io/projects.html/). 
+More info about my recent projects can be found [here](https://hamedshabani.github.io/projects.html). 
