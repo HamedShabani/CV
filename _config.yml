@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hamed / Site Title"
+#title                    : "Hamed / Site Title"
 title_separator          : "-"
 name                     : &name "Hamed"
 description              : &description "personal description"
@@ -230,7 +230,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: compress
       author_profile: true
       read_time: true
       comments: true
