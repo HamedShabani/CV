@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=L5lEAcIAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=L5lEAcIAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2057-1364"
   semantic         : # URL
@@ -257,7 +257,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: compress
       author_profile: true
       share: true
       comments: true
@@ -266,7 +266,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: compress
       author_profile: true
       share: true
       comment: true
