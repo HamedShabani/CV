@@ -13,23 +13,23 @@ Education
 ======
 * Ph.D. in Neuroscience, University of Tübingen,2021.
   * Dissertation: Development of a New Stimulation Strategy for Retinal Implants.
+  * Supervisors: Dr. Daniel Rathbun, Prof. Eberhard Zrenner.
 
 * M.S. in Biomedical Engineering, Shahed University, Tehran,2016.
   * Dissertation: Development of a Drowsiness Detection System Using EEG Signals.
+  * Supervisor: Dr. Mohammad Mikaili.
 
 * B.S. in Electrical Engineering, Bahonar Technical College of Shiraz, 2011.
   * Project: Development of a MATLAB-Compatible Electrocardiogram (ECG) System.
 
 Work experience
 ======
-* Since Jan 2022: Postdoctoral Researcher, Bernstein Center , University of Freiburg .
-  * Research in the field of Computational Neuroscience
-  * Project: Developed an automated system for detecting burst sequences in mouse prefrontal cortex
+* Since Jan 2022: Postdoctoral Researcher in the field of Computational Neuroscience, Bernstein Center , University of Freiburg .
+    * Project: Developed an automated system for detecting burst sequences in mouse prefrontal cortex
 using calcium imaging data.
   
 
 * Fall 2019: Visiting Scientist, University of New South Wales, Sydney.
-
   * Compared patch-clamp data with extracellular responses of retina ganglion cells to electrical
 stimulation.
 
