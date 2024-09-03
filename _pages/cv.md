@@ -38,7 +38,7 @@ stimulation.
   * Analyzed human EEG and e-phys data recorded from non-human primates
 
 
-Skills
+Skills and Interests
 ======
 
 * Programming: Python, Matlab, C.
@@ -48,14 +48,16 @@ data.
 culture, CRISPR, FACS, fluorescence microscopy, and PCR techniques.
 * Instrumentation: Knowledgeable in designing and building custom electronic circuits for experimental setups.
 Experienced in sensor integration, data acquisition systems, and signal processing techniques
-Interests Neural Organoids: Fascinated by the development and application of neural organoids for
-studying neural circuitry and disease modeling.
 
-Interests
-======
+* Interests:
 Lab-on-chip: Intrigued by the potential of retina-on-chip technologies for modeling retinal
 function and disease mechanisms in vitro.
+Neural Organoids: Fascinated by the development and application of neural organoids for
+studying neural circuitry and disease modeling.
 Gene Editing, Synthetic Biology, Drug Discovery.
+
+
+
 <!--   
 Skills
 ======
