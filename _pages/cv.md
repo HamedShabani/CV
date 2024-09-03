@@ -22,7 +22,7 @@ Education
 * B.S. in Electrical Engineering, Bahonar Technical College of Shiraz, 2011.
   * Project: Development of a MATLAB-Compatible Electrocardiogram (ECG) System.
 
-Work experience
+Research experience
 ======
 * Since Jan 2022: Postdoctoral Researcher in the field of Computational Neuroscience, Bernstein Center , University of Freiburg .
     * Project: Developed an automated system for detecting burst sequences in mouse prefrontal cortex
@@ -37,6 +37,25 @@ stimulation.
 * 2015–2017: Research Assistant, Brain Engineering Center (IPM), Tehran
   * Analyzed human EEG and e-phys data recorded from non-human primates
 
+
+Skills
+======
+
+* Programming: Python, Matlab, C.
+* Data Analysis Proficient in data analysis and applying machine learning techniques to interpret and model
+data.
+* Lab Skills: Proficient in retina surgery and in-vitro electrophysiology, with hands-on experience in cell
+culture, CRISPR, FACS, fluorescence microscopy, and PCR techniques.
+* Instrumentation: Knowledgeable in designing and building custom electronic circuits for experimental setups.
+Experienced in sensor integration, data acquisition systems, and signal processing techniques
+Interests Neural Organoids: Fascinated by the development and application of neural organoids for
+studying neural circuitry and disease modeling.
+
+Interests
+======
+Lab-on-chip: Intrigued by the potential of retina-on-chip technologies for modeling retinal
+function and disease mechanisms in vitro.
+Gene Editing, Synthetic Biology, Drug Discovery.
 <!--   
 Skills
 ======
