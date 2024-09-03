@@ -16,4 +16,4 @@ For more info
 ------
 More info about my recent projects can be found [here](https://hamedshabani.github.io/projects.html). 
 
-Here you can <a href="files/Hamed_CV_English.pdf" download>Download my CV</a>
+Here you can <a href="files/Hamed_CV_English.pdf" download>download my CV</a>
