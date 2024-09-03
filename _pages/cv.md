@@ -50,11 +50,12 @@ culture, CRISPR, FACS, fluorescence microscopy, and PCR techniques.
 Experienced in sensor integration, data acquisition systems, and signal processing techniques
 
 * Interests:
-Lab-on-chip: Intrigued by the potential of retina-on-chip technologies for modeling retinal
+  * Lab-on-chip: Intrigued by the potential of retina-on-chip technologies for modeling retinal
 function and disease mechanisms in vitro.
-Neural Organoids: Fascinated by the development and application of neural organoids for
+
+  * Neural Organoids: Fascinated by the development and application of neural organoids for
 studying neural circuitry and disease modeling.
-Gene Editing, Synthetic Biology, Drug Discovery.
+  * Gene Editing, Synthetic Biology, Drug Discovery.
 
 
 
